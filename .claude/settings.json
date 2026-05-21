@@ -2,6 +2,9 @@
     "$schema": "https://json.schemastore.org/claude-code-settings.json",
     "permissions": {
         "allow": [
+            "mcp__d0f1d0b4-4fea-4270-96d4-e8bd8725bf65__*",
+            "mcp__9cddfabc-f117-405a-9f58-71f4da2dbaaa__*",
+            "mcp__2a8b1a5c-a81f-43a7-a306-295e569599f5__*",
             "mcp__Gmail__*",
             "mcp__Google-Calendar__*",
             "mcp__Google-Drive__*"
